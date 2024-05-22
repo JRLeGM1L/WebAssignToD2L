@@ -27,4 +27,3 @@ Stated otherwise, there must be a bijection between the set of WebAssign activit
 5. You need to have python installed on your machine. To check if you do, open a terminal and type python3 and press enter. If you see Python 3.x.x then you have it. Otherwise you need to install it. However, I think that Macs have python intalled by default, and the departments chivo machines (which all run linux) certainly have Python installed.
    
 5. Finally, there are several ways to run the program. The easiest is to type ./main.py on the terminal in the WebAssigGradesToD2L folder.
-6. 
