@@ -1,10 +1,5 @@
-Please read.
 
 These programs were designed to create a file to be uploaded to D2L with the student's WebAssing grades.
-I am sharing this file hoping that it will make the rather tedious process of updating the D2L gradebook with
-WebAssign scores a bit faster. During the Spring 2024 semester, I used this software and it made my life easier.
-That being said, the programs were not created with the intention of sharing, and therefore they are not very robust. They worked for me and I am sharing the 'as is'.
-
 Here are a few points to note.
 
 1. The programs run well on a Unix or Linux machine. I did not bother to try them on a Windows machine and
